@@ -1,0 +1,1 @@
+@reboot /home/miner/xmrig/build/xmrig -B --log-file=/home/miner/xmrig/build/xmrig.log -o xmr.2miners.com:2222 -u 47XpsBViY3P5Gng7U2rYxheEFSCKosKcFgbphXsTh56bKkcy6up3cJ58tmuj4RERcwAby6JDnaa5qDv67J2NbVXK84Qq1f8 -p K --rig-id=K --threads=2
